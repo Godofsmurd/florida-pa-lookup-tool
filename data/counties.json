@@ -1,0 +1,471 @@
+{
+  "Alachua County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=1081&LayerID=26490&PageTypeID=2&PageID=10768",
+    "tax_collector_url": "https://www.google.com/search?q=Alachua+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Alachua+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Alachua+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Baker County": {
+    "pa_url": "http://www.bakerpa.com/search.html",
+    "tax_collector_url": "https://www.google.com/search?q=Baker+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Baker+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Baker+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Bay County": {
+    "pa_url": "https://qpublic.schneidercorp.com/application.aspx?app=BayCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Bay+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Bay+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Bay+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Bradford County": {
+    "pa_url": "https://www.bradfordappraiser.com/gis/",
+    "tax_collector_url": "https://www.google.com/search?q=Bradford+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Bradford+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Bradford+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Brevard County": {
+    "pa_url": "https://www.bcpao.us/PropertySearch/#/nav/Search",
+    "tax_collector_url": "https://www.google.com/search?q=Brevard+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Brevard+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Brevard+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Broward County": {
+    "pa_url": "https://web.bcpa.net/BcpaClient/#/Record-Search",
+    "tax_collector_url": "https://www.google.com/search?q=Broward+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Broward+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Broward+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Calhoun County": {
+    "pa_url": "https://beacon.schneidercorp.com/Application.aspx?AppID=829&LayerID=15004&PageTypeID=2&PageID=6748",
+    "tax_collector_url": "https://www.google.com/search?q=Calhoun+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Calhoun+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Calhoun+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Charlotte County": {
+    "pa_url": "https://www.ccappraiser.com/RPSearchEnter.asp",
+    "tax_collector_url": "https://www.google.com/search?q=Charlotte+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Charlotte+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Charlotte+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Citrus County": {
+    "pa_url": "https://www.citruspa.org/_web/search/commonsearch.aspx?mode=address",
+    "tax_collector_url": "https://www.google.com/search?q=Citrus+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Citrus+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Citrus+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Clay County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=830&LayerID=15008&PageTypeID=2&PageID=6754",
+    "tax_collector_url": "https://www.google.com/search?q=Clay+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Clay+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Clay+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Collier County": {
+    "pa_url": "https://www.collierappraiser.com/",
+    "tax_collector_url": "https://www.google.com/search?q=Collier+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Collier+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Collier+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Columbia County": {
+    "pa_url": "https://search.ccpafl.com/",
+    "tax_collector_url": "https://www.google.com/search?q=Columbia+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Columbia+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Columbia+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Desoto County": {
+    "pa_url": "https://www.desotopa.com/gis/",
+    "tax_collector_url": "https://www.google.com/search?q=Desoto+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Desoto+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Desoto+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Dixie County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=867&LayerID=16385&PageTypeID=2&PageID=7230",
+    "tax_collector_url": "https://www.google.com/search?q=Dixie+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Dixie+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Dixie+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Duval County": {
+    "pa_url": "https://paopropertysearch.coj.net/Basic/Search.aspx",
+    "tax_collector_url": "https://www.google.com/search?q=Duval+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Duval+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Duval+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Escambia County": {
+    "pa_url": "https://www.escpa.org/CAMA/Search.aspx",
+    "tax_collector_url": "https://www.google.com/search?q=Escambia+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Escambia+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Escambia+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Flagler County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=598&LayerID=9801&PageTypeID=2&PageID=4328",
+    "tax_collector_url": "https://www.google.com/search?q=Flagler+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Flagler+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Flagler+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Franklin County": {
+    "pa_url": "https://franklin-search.gsacorp.io/",
+    "tax_collector_url": "https://www.google.com/search?q=Franklin+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Franklin+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Franklin+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Gadsden County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=GadsdenCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Gadsden+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Gadsden+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Gadsden+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Gilchrist County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=GilchristCountyFL&Layer=Parcels&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Gilchrist+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Gilchrist+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Gilchrist+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Glades County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=818&LayerID=14562&PageTypeID=2&PageID=6420",
+    "tax_collector_url": "https://www.google.com/search?q=Glades+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Glades+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Glades+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Gulf County": {
+    "pa_url": "https://beacon.schneidercorp.com/Application.aspx?AppID=819&LayerID=15077&PageTypeID=2&PageID=6812",
+    "tax_collector_url": "https://www.google.com/search?q=Gulf+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Gulf+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Gulf+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Hamilton County": {
+    "pa_url": "https://beacon.schneidercorp.com/Application.aspx?AppID=817&LayerID=14544&PageTypeID=2&PageID=6409",
+    "tax_collector_url": "https://www.google.com/search?q=Hamilton+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Hamilton+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Hamilton+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Hardee County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=813&LayerID=14471&PageTypeID=2&PageID=6252&KeyValue",
+    "tax_collector_url": "https://www.google.com/search?q=Hardee+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Hardee+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Hardee+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Hendry County": {
+    "pa_url": "https://beacon.schneidercorp.com/Application.aspx?AppID=1105&LayerID=27399&PageTypeID=2&PageID=11144",
+    "tax_collector_url": "https://www.google.com/search?q=Hendry+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Hendry+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Hendry+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Hernando County": {
+    "pa_url": "https://propsearch.hernandopa-fl.us/",
+    "tax_collector_url": "https://www.google.com/search?q=Hernando+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Hernando+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Hernando+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Highlands County": {
+    "pa_url": "https://www.hcpao.org/Search",
+    "tax_collector_url": "https://www.google.com/search?q=Highlands+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Highlands+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Highlands+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Hillsborough County": {
+    "pa_url": "https://gis.hcpafl.org/propertysearch/#/nav/Basic%20Search",
+    "tax_collector_url": "https://www.google.com/search?q=Hillsborough+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Hillsborough+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Hillsborough+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Holmes County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=HolmesCountyFL&Layer=Parcels&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Holmes+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Holmes+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Holmes+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Indian River County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=IndianRiverCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Indian+River+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Indian+River+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Indian+River+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Jackson County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=JacksonCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Jackson+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Jackson+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Jackson+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Jefferson County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=JeffersonCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Jefferson+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Jefferson+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Jefferson+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Lafayette County": {
+    "pa_url": "https://www.lafayettepa.com/gis/",
+    "tax_collector_url": "https://www.google.com/search?q=Lafayette+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Lafayette+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Lafayette+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Lake County": {
+    "pa_url": "https://lakecopropappr.com/property-search.aspx?",
+    "tax_collector_url": "https://www.google.com/search?q=Lake+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Lake+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Lake+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Lee County": {
+    "pa_url": "https://www.leepa.org/Search/PropertySearch.aspx",
+    "tax_collector_url": "https://www.google.com/search?q=Lee+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Lee+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Lee+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Leon County": {
+    "pa_url": "https://search.leonpa.gov/Search/Property",
+    "tax_collector_url": "https://www.google.com/search?q=Leon+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Leon+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Leon+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Levy County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=930&LayerID=18185&PageTypeID=2&PageID=8125",
+    "tax_collector_url": "https://www.google.com/search?q=Levy+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Levy+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Levy+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Liberty County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=LibertyCountyFL&Layer=Parcels&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Liberty+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Liberty+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Liberty+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Madison County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=MadisonCountyFL&Layer=Parcels&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Madison+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Madison+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Madison+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Manatee County": {
+    "pa_url": "https://www.manateepao.gov/search/",
+    "tax_collector_url": "https://www.google.com/search?q=Manatee+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Manatee+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Manatee+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Marion County": {
+    "pa_url": "https://www.pa.marion.fl.us/PropertySearch.aspx",
+    "tax_collector_url": "https://www.google.com/search?q=Marion+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Marion+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Marion+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Martin County": {
+    "pa_url": "https://www.pa.martin.fl.us/app/search/real-property",
+    "tax_collector_url": "https://www.google.com/search?q=Martin+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Martin+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Martin+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Miami-Dade County": {
+    "pa_url": "https://www.miamidade.gov/Apps/PA/PropertySearch/#/",
+    "tax_collector_url": "https://www.google.com/search?q=Miami-Dade+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Miami-Dade+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Miami-Dade+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Monroe County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=605&LayerID=9946&PageTypeID=2&PageID=4381",
+    "tax_collector_url": "https://www.google.com/search?q=Monroe+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Monroe+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Monroe+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Nassau County": {
+    "pa_url": "https://search.ncpafl.com/",
+    "tax_collector_url": "https://www.google.com/search?q=Nassau+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Nassau+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Nassau+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Okaloosa County": {
+    "pa_url": "https://qpublic.schneidercorp.com/application.aspx?app=OkaloosaCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Okaloosa+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Okaloosa+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Okaloosa+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Okeechobee County": {
+    "pa_url": "https://www.okeechobeepa.com/gis/",
+    "tax_collector_url": "https://www.google.com/search?q=Okeechobee+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Okeechobee+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Okeechobee+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Orange County": {
+    "pa_url": "https://ocpaweb.ocpafl.org/parcelsearch",
+    "tax_collector_url": "https://www.google.com/search?q=Orange+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Orange+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Orange+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Osceola County": {
+    "pa_url": "https://search.property-appraiser.org/Search/MainSearch",
+    "tax_collector_url": "https://www.google.com/search?q=Osceola+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Osceola+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Osceola+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Palm Beach County": {
+    "pa_url": "https://pbcpao.gov/index.htm",
+    "tax_collector_url": "https://www.google.com/search?q=Palm+Beach+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Palm+Beach+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Palm+Beach+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Pasco County": {
+    "pa_url": "https://search.pascopa.com/",
+    "tax_collector_url": "https://www.google.com/search?q=Pasco+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Pasco+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Pasco+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Pinellas County": {
+    "pa_url": "https://www.pcpao.gov/quick-search",
+    "tax_collector_url": "https://www.google.com/search?q=Pinellas+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Pinellas+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Pinellas+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Polk County": {
+    "pa_url": "https://www.polkflpa.gov",
+    "tax_collector_url": "https://www.google.com/search?q=Polk+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Polk+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Polk+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Putnam County": {
+    "pa_url": "https://apps.putnam-fl.com/pa/property/",
+    "tax_collector_url": "https://www.google.com/search?q=Putnam+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Putnam+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Putnam+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Santa Rosa County": {
+    "pa_url": "https://srcpa.gov/search",
+    "tax_collector_url": "https://www.google.com/search?q=Santa+Rosa+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Santa+Rosa+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Santa+Rosa+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Sarasota County": {
+    "pa_url": "https://www.sc-pa.com/propertysearch",
+    "tax_collector_url": "https://www.google.com/search?q=Sarasota+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Sarasota+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Sarasota+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Seminole County": {
+    "pa_url": "https://www.scpafl.org/search/parcels",
+    "tax_collector_url": "https://www.google.com/search?q=Seminole+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Seminole+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Seminole+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "St. Johns County": {
+    "pa_url": "https://www.sjcpa.gov/home-2021/search-3/",
+    "tax_collector_url": "https://www.google.com/search?q=St.+Johns+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=St.+Johns+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=St.+Johns+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "St. Lucie County": {
+    "pa_url": "https://www.paslc.gov/property-search/real-estate/basic-site-address",
+    "tax_collector_url": "https://www.google.com/search?q=St.+Lucie+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=St.+Lucie+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=St.+Lucie+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Sumter County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?App=SumterCountyFL&PageType=Search",
+    "tax_collector_url": "https://www.google.com/search?q=Sumter+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Sumter+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Sumter+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Suwannee County": {
+    "pa_url": "https://www.suwanneepa.com/gis/",
+    "tax_collector_url": "https://www.google.com/search?q=Suwannee+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Suwannee+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Suwannee+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Taylor County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=792&LayerID=11749&PageTypeID=2&PageID=5268",
+    "tax_collector_url": "https://www.google.com/search?q=Taylor+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Taylor+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Taylor+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Union County": {
+    "pa_url": "https://union.floridapa.com/gis/",
+    "tax_collector_url": "https://www.google.com/search?q=Union+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Union+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Union+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Volusia County": {
+    "pa_url": "https://vcpa.vcgov.org/search/real-property-classic",
+    "tax_collector_url": "https://www.google.com/search?q=Volusia+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Volusia+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Volusia+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Wakulla County": {
+    "pa_url": "https://search.mywakullapa.com/",
+    "tax_collector_url": "https://www.google.com/search?q=Wakulla+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Wakulla+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Wakulla+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Walton County": {
+    "pa_url": "https://beacon.schneidercorp.com/Application.aspx?AppID=835&LayerID=15172&PageTypeID=2&PageID=6827",
+    "tax_collector_url": "https://www.google.com/search?q=Walton+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Walton+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Walton+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Washington County": {
+    "pa_url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=896&LayerID=16944&PageTypeID=2&PageID=7613",
+    "tax_collector_url": "https://www.google.com/search?q=Washington+County+Florida+tax+collector+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Washington+County+Florida+clerk+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Washington+County+Florida+building+permit+search",
+    "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  }
+}

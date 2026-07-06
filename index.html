@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Florida Property Research Launcher</title>
+  <meta name="description" content="Lookup Florida Property Appraiser websites by ZIP, address, or county." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="brand-row">
+        <div class="brand-mark">PA</div>
+        <div>
+          <p class="eyebrow">Florida Lookup Tool</p>
+          <h1>Property Research Launcher</h1>
+        </div>
+        <button id="themeToggle" class="ghost-btn" type="button" aria-label="Toggle dark mode">🌙</button>
+      </div>
+      <p class="hero-copy">Enter a ZIP, paste a property address, or pick a county to open the right Florida property research tools.</p>
+    </header>
+
+    <main class="grid">
+      <section class="card search-card">
+        <label for="searchInput">ZIP, address, city, or county</label>
+        <div class="search-row">
+          <input id="searchInput" type="text" inputmode="search" autocomplete="off" placeholder="Example: 33401 or 9966 SW Davanti Dr 34987" />
+          <button id="searchBtn" type="button">Search</button>
+        </div>
+        <div class="helper-row">
+          <span id="detectedZip">ZIP detected: none</span>
+          <button id="clearBtn" class="link-btn" type="button">Clear</button>
+        </div>
+
+        <div class="divider"></div>
+
+        <label for="countySelect">Or choose county manually</label>
+        <div class="search-row compact">
+          <select id="countySelect">
+            <option value="">Select a Florida county...</option>
+          </select>
+          <button id="countyBtn" type="button">Open</button>
+        </div>
+      </section>
+
+      <section id="resultCard" class="card result-card muted-card">
+        <p class="empty-title">Ready when you are.</p>
+        <p class="empty-copy">A result will show the county, Property Appraiser button, SunBiz, Google Maps, and quick copy actions.</p>
+      </section>
+
+      <section class="card shortcuts-card">
+        <div class="section-title-row">
+          <h2>Universal Florida Links</h2>
+        </div>
+        <div class="button-grid small">
+          <a class="tool-link" target="_blank" rel="noopener" href="https://search.sunbiz.org/Inquiry/CorporationSearch/ByName">SunBiz Entity Search</a>
+          <a class="tool-link" target="_blank" rel="noopener" href="https://www.google.com/maps">Google Maps</a>
+          <a class="tool-link" target="_blank" rel="noopener" href="https://www.myfloridalicense.com/wl11.asp?mode=0&SID=">DBPR License Search</a>
+          <a class="tool-link" target="_blank" rel="noopener" href="https://www.flhsmv.gov/">FLHSMV</a>
+        </div>
+      </section>
+
+      <section class="card history-card">
+        <div class="section-title-row">
+          <h2>Recent Lookups</h2>
+          <button id="clearHistoryBtn" class="link-btn" type="button">Clear history</button>
+        </div>
+        <div id="historyList" class="history-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <template id="resultTemplate">
+    <div>
+      <p class="eyebrow result-eyebrow">Likely County</p>
+      <h2 class="county-name"></h2>
+      <p class="result-note"></p>
+      <div class="button-grid">
+        <a class="primary-link pa-link" target="_blank" rel="noopener">Open Property Appraiser</a>
+        <a class="tool-link maps-link" target="_blank" rel="noopener">Open Google Maps</a>
+        <a class="tool-link sunbiz-link" target="_blank" rel="noopener" href="https://search.sunbiz.org/Inquiry/CorporationSearch/ByName">Search SunBiz</a>
+        <a class="tool-link tax-link" target="_blank" rel="noopener">Tax Collector Search</a>
+        <a class="tool-link clerk-link" target="_blank" rel="noopener">Clerk Records Search</a>
+        <a class="tool-link permit-link" target="_blank" rel="noopener">Permit Search</a>
+      </div>
+      <div class="copy-row">
+        <button class="ghost-btn copy-county" type="button">Copy county</button>
+        <button class="ghost-btn copy-pa" type="button">Copy PA link</button>
+        <button class="ghost-btn copy-summary" type="button">Copy summary</button>
+      </div>
+      <p class="fine-print">ZIP-to-county lookup is a routing aid. If the property is near a county line, verify using the full property address.</p>
+    </div>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
