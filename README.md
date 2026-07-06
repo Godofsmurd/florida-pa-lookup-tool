@@ -42,3 +42,12 @@ Open `data/zip_to_county.json` and add a new line like this:
 ```
 
 Make sure every line except the last item has a comma after it.
+
+
+## Logo
+
+The header is set to use `Statewide_Home_Improvement.png` from the root of the site. Upload your logo file with that exact filename next to `index.html`. If the file is missing, the app falls back to a simple PA badge.
+
+## Removed links
+
+The Universal Florida Links section intentionally includes only SunBiz Entity Search and Google Maps. FLHSMV and DBPR were removed because they are not relevant to this workflow.
