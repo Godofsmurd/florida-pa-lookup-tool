@@ -57,7 +57,7 @@ function normalizeCounty(text) {
 }
 
 function extractZip(text) {
-  const match = text.match(/\b(3[2-4]\d{3})(?:-\d{4})?\b/);
+  const match = text.match(/\b(\d{5})(?:-\d{4})?\b/);
   return match ? match[1] : '';
 }
 
@@ -75,7 +75,7 @@ function inferCounty(input) {
 
 function doSearch() {
   const input = els.searchInput.value.trim();
-  if (!input) return showError('Enter a Florida ZIP, address, city, or county.');
+  if (!input) return showError('Enter a ZIP, address, city, or county.');
 
   const result = inferCounty(input);
   els.detectedZip.textContent = result.zip ? `ZIP detected: ${result.zip}` : 'ZIP detected: none';
@@ -83,7 +83,7 @@ function doSearch() {
   if (!result.county || !counties[result.county]) {
     const msg = result.zip
       ? `I detected ZIP ${result.zip}, but it is not in the starter ZIP table. Pick the county manually below, or add this ZIP to data/zip_to_county.json.`
-      : 'No county match found. Try a 5-digit Florida ZIP, paste the full address with ZIP, or use the county dropdown.';
+      : 'No county match found. Try a 5-digit ZIP, paste the full address with ZIP, or use the county dropdown.';
     return showError(msg);
   }
 
@@ -92,16 +92,19 @@ function doSearch() {
   renderHistory();
 }
 
-function openCountyFromSelect() {
-  const county = els.countySelect.value;
-  if (!county) return showError('Choose a Florida county first.');
-  renderResult(county, county, '', 'county');
-  saveHistory({ query: county, county, zip: '', ts: Date.now() });
-  renderHistory();
-}
-
 function buildGoogleMapsUrl(query, county) {
-  const q = query && query !== county ? query : `${county} Florida`;
+  let fallbackLocation = county;
+
+  if (county.endsWith(", TX")) {
+    fallbackLocation = county.replace(", TX", " Texas");
+  } else if (county.endsWith(", FL")) {
+    fallbackLocation = county.replace(", FL", " Florida");
+  } else {
+    fallbackLocation = `${county} Florida`;
+  }
+
+  const q = query && query !== county ? query : fallbackLocation;
+
   return `https://www.google.com/maps/search/${encodeURIComponent(q)}`;
 }
 
