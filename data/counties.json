@@ -467,5 +467,65 @@
     "clerk_url": "https://www.google.com/search?q=Washington+County+Florida+clerk+official+records+search",
     "permit_url": "https://www.google.com/search?q=Washington+County+Florida+building+permit+search",
     "notes": "Open the Property Appraiser first for owner, parcel, sales history, and legal description. Use the other buttons when you need taxes, recorded documents, permits, or business/entity verification."
+  },
+  "Harris County, TX": {
+    "pa_url": "https://hcad.org/property-search/property-search",
+    "tax_collector_url": "https://www.hctax.net/Property/PropertyTax",
+    "clerk_url": "https://www.cclerk.hctx.net/Applications/WebSearch/RP.aspx",
+    "permit_url": "https://www.google.com/search?q=Harris+County+Texas+building+permit+search"
+  },
+  "Fort Bend County, TX": {
+    "pa_url": "https://esearch.fbcad.org/",
+    "tax_collector_url": "https://www.fortbendcountytx.gov/government/departments/tax-assessor-collector/property-taxes",
+    "clerk_url": "https://www.fortbendcountytx.gov/government/departments/county-clerk/online-record-search",
+    "permit_url": "https://www.google.com/search?q=Fort+Bend+County+Texas+permit+search"
+  },
+  "Montgomery County, TX": {
+    "pa_url": "https://esearch.mcad-tx.org/",
+    "tax_collector_url": "https://actweb.acttax.com/act_webdev/montgomery/showlist.jsp",
+    "clerk_url": "https://www.google.com/search?q=Montgomery+County+Texas+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Montgomery+County+Texas+permit+search"
+  },
+  "Brazoria County, TX": {
+    "pa_url": "https://brazoriacad.org/",
+    "tax_collector_url": "https://tax.brazoriacountytx.gov/Search",
+    "clerk_url": "https://www.brazoriacountyclerktx.gov/search-records",
+    "permit_url": "https://www.google.com/search?q=Brazoria+County+Texas+permit+search"
+  },
+  "Galveston County, TX": {
+    "pa_url": "https://esearch.galvestoncad.org/",
+    "tax_collector_url": "https://www.google.com/search?q=Galveston+County+Texas+property+tax+search",
+    "clerk_url": "https://www.google.com/search?q=Galveston+County+Texas+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Galveston+County+Texas+permit+search"
+  },
+  "Waller County, TX": {
+    "pa_url": "https://esearch.waller-cad.org/",
+    "tax_collector_url": "https://www.co.waller.tx.us/page/TAC.Main",
+    "clerk_url": "https://www.google.com/search?q=Waller+County+Texas+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Waller+County+Texas+permit+search"
+  },
+  "Liberty County, TX": {
+    "pa_url": "https://esearch.libertycad.com/",
+    "tax_collector_url": "https://www.libertycountytax.com/search",
+    "clerk_url": "https://www.google.com/search?q=Liberty+County+Texas+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Liberty+County+Texas+permit+search"
+  },
+  "Chambers County, TX": {
+    "pa_url": "https://chamberscad.org/Home/Search",
+    "tax_collector_url": "https://www.google.com/search?q=Chambers+County+Texas+property+tax+search",
+    "clerk_url": "https://chambers.tx.publicsearch.us/",
+    "permit_url": "https://www.google.com/search?q=Chambers+County+Texas+permit+search"
+  },
+  "Austin County, TX": {
+    "pa_url": "https://esearch.austincad.org/",
+    "tax_collector_url": "https://tax.austincad.org/search",
+    "clerk_url": "https://www.google.com/search?q=Austin+County+Texas+official+records+search",
+    "permit_url": "https://www.google.com/search?q=Austin+County+Texas+permit+search"
+  },
+  "San Jacinto County, TX": {
+    "pa_url": "https://esearch.sjcad.org/",
+    "tax_collector_url": "https://sjc-tax.us/appraisal/publicaccess/",
+    "clerk_url": "https://www.google.com/search?q=San+Jacinto+County+Texas+official+records+search",
+    "permit_url": "https://www.google.com/search?q=San+Jacinto+County+Texas+permit+search"
   }
 }
